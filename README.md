@@ -1,2 +1,3 @@
 # LearningML
-My personal pepo to learn as much about Machine Learning as possible
+My personal pepo to learn as much about Machine Learning as possible.
+
